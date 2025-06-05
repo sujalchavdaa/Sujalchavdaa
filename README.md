@@ -1,4 +1,4 @@
-![logo](https://github.com/sujalchavdaa/Sujalchavdaa/blob/main/Github%20Banner.png.png)
+![logo](https://github.com/sujalchavdaa/Sujalchavdaa/blob/main/Blue%20and%20White%20Futuristic%20Cyber%20Security%20Presentation.gif)
 <h1 align="center">Hi 👋, I'm Sujal Chavda</h1>
 <h3 align="center">SSC Aspriant , mini hacker From Gujrat</h3>
 
