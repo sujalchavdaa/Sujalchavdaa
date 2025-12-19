@@ -42,3 +42,42 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalchavdaa&show_icons=true&locale=en" alt="sujalchavdaa" /></p>
 
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sujalchavdaa&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+
+
+<!-- ===================== VISITOR COUNTER ===================== -->
+<h2 align="center">👀 Visitor Counter</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalchavdaa&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+<!-- ===================== DEV QUOTE ===================== -->
+<h2 align="center">💬 Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ===================== FINAL MESSAGE ===================== -->
+<h2 align="center">🚀 Thanks for Visiting My Profile 🚀</h2>
+
+<p align="center">
+⭐ Follow me for more projects  
+💻 Learning • Practicing • Improving  
+🔥 Never Stop Grinding
+</p>
+
