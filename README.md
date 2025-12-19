@@ -42,4 +42,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalchavdaa&show_icons=true&locale=en" alt="sujalchavdaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalchavdaa&" alt="sujalchavdaa" /></p>
