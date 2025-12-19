@@ -76,7 +76,6 @@
 <h2 align="center">🚀 Thanks for Visiting My Profile 🚀</h2>
 
 <p align="center">
-⭐ Follow me for more projects  
 💻 Learning • Practicing • Improving  
 🔥 Never Stop Grinding
 </p>
