@@ -22,6 +22,12 @@
 
 - ⚡ Fun fact **YOUR GAY 😂🤣😂**
 
+- ## 🟩 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abc" height="30" width="40" /></a>
